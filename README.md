@@ -6,8 +6,9 @@ Computer Exercise 4.
 
 ###Program A
 
-![alt text](https://github.com/vipersfly23/CE2/blob/master/Behavorial_Simulation.GIF?raw=true "Program A")
+![alt text](https://github.com/vipersfly23/CE4_Her/blob/master/Program_A.GIF?raw=true "Program A")
 
+* [Program A](https://github.com/vipersfly23/CE4_Her/blob/master/Program_A_Her.psm)
 
 #####Simple Memory Manipulation: 
 
@@ -25,6 +26,12 @@ Step 5) The program calls the instruction: LDAI , and loads B into the accumulat
 
 Step 6) The program calls the instruction STA, and stores the value B into the RAM labeled Three
 
+
+###Program B
+
+![alt text](https://github.com/vipersfly23/CE4_Her/blob/master/Program_B.GIF?raw=true "Program B")
+
+* [Program B](https://github.com/vipersfly23/CE4_Her/blob/master/Program_B_Her.psm)
 
 #####Mathematics: 
 
@@ -45,6 +52,13 @@ Step 5) The program calls the instruction NEG, which takes the twos complement o
 Step 6) The program calls the instruction ADDD, which adds the value stored in RAM labeled two to the accumulator
 
 Step 7) The program calls the instruction OUT, which outputs the value in the accumulator to output port 2.
+
+
+###Program C
+
+![alt text](https://github.com/vipersfly23/CE4_Her/blob/master/Program_C.GIF?raw=true "Program C")
+
+* [Program C](https://github.com/vipersfly23/CE4_Her/blob/master/Program_C_Her.psm)
 
 #####Loops: 
 
