@@ -12,7 +12,7 @@ Computer Exercise 4.
 
 #####Simple Memory Manipulation: 
 
-*Write a program that stores the value $9 in location $B0, $8 in $C4 and $B in $CB. (Target program end: $11)*
+**Write a program that stores the value $9 in location $B0, $8 in $C4 and $B in $CB. (Target program end: $11)**
 
 Step 1) The program calls the instruction: LDAI , and loads 9 into the accumulator
 
