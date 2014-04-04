@@ -26,7 +26,7 @@ Computer Exercise 4.
 
 *  Step 6) The program calls the instruction STA, and stores the value B into the RAM labeled Three
 
-
+=====
 ###Program B
 
 ![alt text](https://github.com/vipersfly23/CE4_Her/blob/master/Program_B.GIF?raw=true "Program B")
@@ -53,7 +53,7 @@ Computer Exercise 4.
 
 *   Step 7) The program calls the instruction OUT, which outputs the value in the accumulator to output port 2.
 
-
+=====
 ###Program C
 
 ![alt text](https://github.com/vipersfly23/CE4_Her/blob/master/Program_C.GIF?raw=true "Program C")
@@ -86,8 +86,9 @@ Computer Exercise 4.
 
 *   Step 11) The program calls the instruction JMP, which jumps to the label loop. Program returns to step 5 and                 repeats.
 
+=====
 
 ####DOCUMENTATION:
-=======
+
 NO HELP RECEIVED
 
