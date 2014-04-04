@@ -89,6 +89,5 @@ Computer Exercise 4.
 
 ####DOCUMENTATION:
 =======
-
-    NO HELP RECEIVED
+NO HELP RECEIVED
 
