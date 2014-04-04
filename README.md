@@ -14,17 +14,17 @@ Computer Exercise 4.
 
 *Write a program that stores the value $9 in location $B0, $8 in $C4 and $B in $CB. (Target program end: $11)*
 
-  Step 1) The program calls the instruction: LDAI , and loads 9 into the accumulator
+*  Step 1) The program calls the instruction: LDAI , and loads 9 into the accumulator
 
-  Step 2) The program calls the instruction STA, and stores the value 9 into the RAM labeled One
+*  Step 2) The program calls the instruction STA, and stores the value 9 into the RAM labeled One
 
-  Step 3) The program calls the instruction: LDAI , and loads 8 into the accumulator
+*  Step 3) The program calls the instruction: LDAI , and loads 8 into the accumulator
     
-  Step 4) The program calls the instruction STA, and stores the value 8 into the RAM labeled Two
+*  Step 4) The program calls the instruction STA, and stores the value 8 into the RAM labeled Two
 
-  Step 5) The program calls the instruction: LDAI , and loads B into the accumulator
+*  Step 5) The program calls the instruction: LDAI , and loads B into the accumulator
 
-  Step 6) The program calls the instruction STA, and stores the value B into the RAM labeled Three
+*  Step 6) The program calls the instruction STA, and stores the value B into the RAM labeled Three
 
 
 ###Program B
